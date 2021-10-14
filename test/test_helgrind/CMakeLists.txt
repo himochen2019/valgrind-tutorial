@@ -1,0 +1,2 @@
+add_executable(test_helgrind main.cc)
+target_link_libraries(test_helgrind PRIVATE pthread)
