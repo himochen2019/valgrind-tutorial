@@ -1,3 +1,4 @@
 add_subdirectory(test_memcheck)
 add_subdirectory(test_callgrind)
 add_subdirectory(test_helgrind)
+add_subdirectory(test_massif)
